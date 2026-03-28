@@ -1,8 +1,8 @@
-\# MVC Project: Multilayer Perceptron
+# MVC Project: Multilayer Perceptron
 
 
 
-\## What is this project?
+## What is this project?
 
 This project is about building a Multilayer Perceptron (MLP) from scratch 
 
@@ -14,7 +14,7 @@ on the MNIST handwritten digits dataset (Task 7).
 
 
 
-\## What is an MLP?
+## What is an MLP?
 
 An MLP (Multilayer Perceptron) is a type of neural network. It takes some 
 
@@ -30,39 +30,39 @@ backpropagation and gradient descent.
 
 
 
-\## How to Run the Notebook
+## How to Run the Notebook
 
 
 
-1\. Make sure you have Python 3.8 or higher installed.
+1. Make sure you have Python 3.8 or higher installed.
 
-2\. Install the required libraries:
+2. Install the required libraries:
 
-&#x20;  pip install numpy matplotlib jupyter
+    `pip install numpy matplotlib jupyter`
 
-3\. Copy the MNIST dataset file and place it in the data/ folder.
+3. Copy the MNIST dataset file and place it in the data/ folder.
 
-4\. Open the notebook:
+4. Open the notebook:
 
-&#x20;  jupyter notebook src/B\_i252015.ipynb
+    `jupyter notebook src/B_i252015.ipynb`
 
-5\. Run all cells from top to bottom using Kernel > Restart \& Run All.
-
-
-
-\## Requirements
-
-\- Python 3.8+
-
-\- NumPy
-
-\- Matplotlib
-
-\- Jupyter Notebook
+5. Run all cells from top to bottom using Kernel > Restart & Run All.
 
 
 
-\## Folder Structure
+## Requirements
+
+- Python 3.8+
+
+- NumPy
+
+- Matplotlib
+
+- Jupyter Notebook
+
+
+
+## Folder Structure
 
 mvc-mlp-25i2015/
 
